@@ -1,6 +1,6 @@
-# 🎉 Template Python FastAPI
+# 🎉 Template Python FastAPI Oracle
 
-FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. It has a simple and easy to use API, is lightweight, and includes features like asynchronous support, dependency injection, and more.
+Oracle is a leading provider of enterprise software and database technology, offering a wide range of solutions for businesses of all sizes. Its products include databases, middleware, application software, and hardware systems, and it serves industries ranging from healthcare to finance.
 
 ![version](https://img.shields.io/badge/version-1.0-blue)
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
