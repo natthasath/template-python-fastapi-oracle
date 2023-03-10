@@ -6,6 +6,11 @@ Oracle is a leading provider of enterprise software and database technology, off
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
 ![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)
 
+### ✅ Requirements
+
+- [Download Oracle Instant Client for Linux x86-64](https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html)
+- Save to folder oracle
+
 ### 🏆 Run
 
 - [http://localhost:8000/docs](http://localhost:8000/docs)
