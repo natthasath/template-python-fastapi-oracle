@@ -33,4 +33,6 @@ RUN ldconfig
 ENV ORACLE_HOME=/opt/oracle/instantclient_11_2
 ENV LD_LIBRARY_PATH=$ORACLE_HOME:$LD_LIBRARY_PATH
 
+HEALTHCHECK --interval=30s --timeout=10s CMD curl -f http://localhost:8000/docs || exit 1
+
 CMD ["python", "main.py"]
